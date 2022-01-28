@@ -9,7 +9,7 @@
 
 ***
 <div align="center">
-  <img src="./src/img/edvard-munch.png" alt="Draw" width="800">
+  <img src="./src/img/edvard-munch.png" alt="Draw" width="80">
 </div>
 
 # 1. Lets-Draw
